@@ -32,7 +32,11 @@
     "eslint-plugin-better-tailwindcss": "^3.7.11",
     "eslint-plugin-import-x": "^4.16.1",
     "eslint-plugin-pinia": "^0.4.2",
+<<<<<<< HEAD
     "eslint-plugin-vue": "^10.6.0",
+=======
+    "eslint-plugin-vue": "^10.5.1",
+>>>>>>> b35de94e317b52b390dc26cd21d44d07dbb55b9e
     "eslint-webpack-plugin": "^5.0.2",
     "globals": "^16.5.0",
     "html-inline-css-loader": "^0.2.1",
