@@ -1068,8 +1068,13 @@ packages:
   '@webassemblyjs/wast-printer@1.14.1':
     resolution: {integrity: sha512-kPSSXE6De1XOR820C90RIo2ogvZG+c3KiHzqUoO/F34Y2shGzesfqv7o57xrxovZJH/MetF5UjroJ/R/3isoiw==}
 
+<<<<<<< HEAD
   '@webgpu/types@0.1.68':
     resolution: {integrity: sha512-3ab1B59Ojb6RwjOspYLsTpCzbNB3ZaamIAxBMmvnNkiDoLTZUOBXZ9p5nAYVEkQlDdf6qAZWi1pqj9+ypiqznA==}
+=======
+  '@webgpu/types@0.1.67':
+    resolution: {integrity: sha512-uk53+2ECGUkWoDFez/hymwpRfdgdIn6y1ref70fEecGMe5607f4sozNFgBk0oxlr7j2CRGWBEc3IBYMmFdGGTQ==}
+>>>>>>> a769e68fbf6275d9810700842203a0d57ac9c157
 
   '@webpack-cli/configtest@3.0.1':
     resolution: {integrity: sha512-u8d0pJ5YFgneF/GuvEiDA61Tf1VDomHHYMjv/wc9XzYj7nopltpG96nXN5dJRstxZhcNpV1g+nT6CydO7pHbjA==}
@@ -4858,7 +4863,11 @@ snapshots:
       '@webassemblyjs/ast': 1.14.1
       '@xtuc/long': 4.2.2
 
+<<<<<<< HEAD
   '@webgpu/types@0.1.68': {}
+=======
+  '@webgpu/types@0.1.67': {}
+>>>>>>> a769e68fbf6275d9810700842203a0d57ac9c157
 
   '@webpack-cli/configtest@3.0.1(webpack-cli@6.0.1)(webpack@5.103.0)':
     dependencies:
@@ -7059,7 +7068,11 @@ snapshots:
       '@pixi/colord': 2.9.6
       '@types/css-font-loading-module': 0.0.12
       '@types/earcut': 3.0.0
+<<<<<<< HEAD
       '@webgpu/types': 0.1.68
+=======
+      '@webgpu/types': 0.1.67
+>>>>>>> a769e68fbf6275d9810700842203a0d57ac9c157
       '@xmldom/xmldom': 0.8.11
       earcut: 3.0.2
       eventemitter3: 5.0.1
